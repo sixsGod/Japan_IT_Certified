@@ -1,12 +1,22 @@
 ### 取りたい日本のIT資格：
-- [情報セキュリティマネジメント試験(SG)](./SG)
-- [基本情報技術者試験(FE)](./FE)
-- データベーススペシャリスト試験(DB)
-- Oracle Certified Java Programmer, Bronze SE
-- AWS Certified Cloud Practitioner
+1. [情報セキュリティマネジメント試験(SG)](./SG) 
+2. [基本情報技術者試験(FE)](./FE)
+3. [応用情報技術者試験(AP)](./AP)
+4. [データベーススペシャリスト試験(DB)](./DB)
+5. Oracle Certified Java Programmer, Bronze SE
+6. AWS Certified Cloud Practitioner
 
 ### 試験区分一覧：<br>
 ![it_list](./pic/it_list.png)
 
 ### 試験の概要：
+1. [情報セキュリティマネジメント試験(SG)](SG/01_概要.md)
+2. [基本情報技術者試験(FE)](FE/01_概要.md)
+3. [応用情報技術者試験(AP)](AP/01_概要.md)
+4. [データベーススペシャリスト試験(DB)](DB/01_概要.md)
 
+### 試験分野
+1. [情報セキュリティマネジメント試験(SG)](SG/02_試験分野.md)
+2. [基本情報技術者試験(FE)](FE/02_試験分野.md)
+3. [応用情報技術者試験(AP)](AP/02_試験分野.md)
+4. [データベーススペシャリスト試験(DB)](DB/02_試験分野.md)
