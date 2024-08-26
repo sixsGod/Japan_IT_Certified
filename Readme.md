@@ -5,4 +5,6 @@
 - Oracle Certified Java Programmer, Bronze SE
 - AWS Certified Cloud Practitioner
 
+試験区分一覧：
+![it_list](./pic/it_list.jpg)
 
